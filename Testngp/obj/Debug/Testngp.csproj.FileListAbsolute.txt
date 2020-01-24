@@ -1,0 +1,16 @@
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Testngp.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Testngp.pdb
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kherrera\source\repos\Testngp\Testngp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kherrera\source\repos\Testngp\Testngp\obj\Debug\Testngp.csprojAssemblyReference.cache
+C:\Users\kherrera\source\repos\Testngp\Testngp\obj\Debug\Testngp.csproj.CopyComplete
+C:\Users\kherrera\source\repos\Testngp\Testngp\obj\Debug\Testngp.dll
+C:\Users\kherrera\source\repos\Testngp\Testngp\obj\Debug\Testngp.pdb
